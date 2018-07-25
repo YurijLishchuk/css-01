@@ -1,0 +1,21 @@
+h1 {
+    color: red;
+}
+    
+.chosen {
+    color: green;
+}
+
+div p {
+    font-family: Arial;
+    color: black;
+}
+
+p:hover {
+    font-weight: bold;
+    background-color: purple;
+}
+
+p::first-letter {
+    font-size: 4rem;
+}
